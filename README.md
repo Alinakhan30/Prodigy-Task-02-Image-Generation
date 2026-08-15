@@ -28,6 +28,10 @@ Through this task, I learned the basics of text-to-image generation, Stable Diff
 
 I also gained practical experience in setting up the environment, solving errors and improving the generated results through experimentation.
 
+## Example Output
+
+![Generated Image](Task2Output.jpeg)
+
 ## How to Run
 
 Install the required libraries:
